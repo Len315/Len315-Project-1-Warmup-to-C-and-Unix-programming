@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This script runs a series of tests for the `reverse` program.
+# This script runs a series of tests for the 'reverse' program.
 
 # Function to run a single test
 run_test() {
@@ -10,7 +10,7 @@ run_test() {
     expected_output_file="../initial-reverse/tests/${test_num}.out"
     actual_output_file="../initial-reverse/tests/${test_num}.actual"
 
-    # Run the `reverse` program with the input file and save the output to the actual output file
+    # Run the 'reverse' program with the input file and save the output to the actual output file
     ../initial-reverse/reverse "$input_file" "$actual_output_file"
 
     # Compare the actual output with the expected output
