@@ -3,6 +3,8 @@ Sources:
 fprintf usage: https://man7.org/linux/man-pages/man3/fprintf.3.html
 Comparing command line arguments: https://man7.org/linux/man-pages/man3/strcmp.3.html
 Finding files identificality using st_ino and st_dev of stat: https://www.ibm.com/docs/en/i/7.3?topic=ssw_ibm_i_73/apis/stat.htm
+Memory allocation, Linked list and its handling: Len, (2023). A program that analyzes political speeches by processing their metadata [Unpublished source code]. Personal collection.
+AI usage: This code is commented using Copilot-style comments, and has been edited and added by the creator based on those suggestions. 
 */
 #include <stdio.h>
 #include <string.h>
