@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# AI usage: This code is commented using Copilot-style comments, and has been edited and added by the creator based on those suggestions. 
+
 # This script runs a series of tests for the 'reverse' program.
 
 # Function to run a single test
