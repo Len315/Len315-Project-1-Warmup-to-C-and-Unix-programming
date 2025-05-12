@@ -6,14 +6,14 @@ Finding files identificality using st_ino and st_dev of stat: https://www.ibm.co
 Memory allocation, Linked list and its handling: Len, (2023). A program that analyzes political speeches by processing their metadata [Unpublished source code]. Personal collection.
 AI usage: This code is commented using Copilot-style comments, and has been edited and added by the creator based on those suggestions. 
 */
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-#include <sys/stat.h>
 
 // This program reverses the lines of a text file.
 // It can read from an input file and write to an output file, or use standard input/output.
 // It uses a linked list to store the lines in reverse order before writing them back.
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <sys/stat.h>
 
 // Error messages
 #define USAGE "usage: reverse <input> <output>\n"
